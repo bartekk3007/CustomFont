@@ -1,0 +1,11 @@
+@font-face
+{
+    font-family: "Arupala Grotesk";
+    src: url("../fonts/ArupalaGrotesk-Ultra.ttf");
+}
+
+body
+{
+    font-size: 5rem;
+    font-family: "Arupala Grotesk", sans-serif;
+}
